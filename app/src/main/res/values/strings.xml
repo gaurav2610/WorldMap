@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">WorldMap</string>
-    <string name="title_activity_maps">Map</string>
 
     <string name="google_map_api_key">AIzaSyCRVpX4Mi45LeVb4lH0Wb5h9FumHwYrkbQ</string>
 
