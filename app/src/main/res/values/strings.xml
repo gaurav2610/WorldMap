@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WorldMap</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_map_api_key">AIzaSyCRVpX4Mi45LeVb4lH0Wb5h9FumHwYrkbQ</string>
+
+    <string name="no_location_found_error">Location not found!</string>
+    <string name="empty_string_found_error">Please enter a location</string>
+    <string name="device_location_error">Unable to get current location</string>
+    <string name="no_network_error">No Network Available!</string>
+
+    <string name="enter_location_hint">Enter Location</string>
+</resources>
